@@ -1,0 +1,7 @@
+Compte rendu projet Startup : Sport Social Network     28/10/2015
+
+Nous avons défini le projet et les fonctionnalités ainsi qu’une modélisation merise.
+
+Nous avons ensuite assisté au tutoriel github de l’après-midi et configurer notre Androïd Studio.
+
+Nous avons pensé au front de l’application.
