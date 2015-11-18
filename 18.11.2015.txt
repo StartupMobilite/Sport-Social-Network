@@ -1,0 +1,10 @@
+Compte rendu projet Startup : Sport Social Network     18/11/2015
+
+Nous nous sommes séparés en deux groups (3 et 2) 
+
+Nous avons travaillés sur la base de donnée, on décide de partir sur Mysqli.
+
+Nous avons regargé quels sont les moyens pour relier le code java avec la base de donnée et nous avons commencé à faire
+la base de donnée
+
+Nous avons ensuite assisté au tutoriel de java.
