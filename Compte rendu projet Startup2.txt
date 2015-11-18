@@ -1,0 +1,2 @@
+Aujourd'hui j'ai installé MySQL est commencé la base de données.
+Nous avons ensuite assisté au cours de JAVA de 15h à 17h.
