@@ -1,0 +1,3 @@
+J'ai travaillé avec mes collègues sur la mise en place de l'espace membre de notre application. 
+
+Nous attendons le cours de la semaine prochaine pour l'upload mais nous avons d'or et déjà effectué la séléction des sports il manque la récupération des données puisque la base de données est à refaire.
