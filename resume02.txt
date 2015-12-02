@@ -1,0 +1,8 @@
+Mercredi 02/12/2015
+
+Ce matin j'ai récupéré le code de mes teammates, je l'ai lu et compris.
+Ensuite j'ai cherché le système que je vais mettre en place pour relier base de donné et le code.
+J'ai décidé de partir sur du php avec mysql, cependant j'ai un peu de mal avec le code, il faut que je le travail
+chez moi.
+J'ai aussi assisté au cour d'android studio.
+Pour le prochain cour j'essayerai d'avoir mi en place le systeme bdd avec le code pour qu'une personne puisse s'inscrire.
