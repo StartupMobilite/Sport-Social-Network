@@ -1,7 +1,0 @@
-Compte rendu du 16.12.2015
-
-Ce matin, on a assisté à la conférence Microsoft Azure.
-Ensuite, on a revu la base de donnée. 
-Pour finir, j'ai suivi le tutoriel : https://www.youtube.com/watch?v=a3XP48bpjxY pour le scroll simple et efficace,
-je me suis donc lancé dans le tchat privé et on a décidé de garder les fonctionnalités compte (inscription connexion)
-le mur pour trouver des personnes avec un tchat
