@@ -1,0 +1,3 @@
+On a revu la base de donnée
+J’ai participé a la conférence sur les présentations de startup qui nous ont présenté leur projet.
+J'ai suivi le tutoriel pour un tchat, j'ai trouvé : https://github.com/EgorBo/CrossChat-Xamarin.Forms
