@@ -1,0 +1,1 @@
+J'ai réecris le code de l'upload Image. Ayant partiellement fini ma partie, j'en ai profité pour regarder un peu la base de données.
